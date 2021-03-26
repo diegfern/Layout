@@ -1,0 +1,17 @@
+@import "bootuseful/bootuseful.min.css";
+@import "antd/dist/antd.css";
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.img/fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
